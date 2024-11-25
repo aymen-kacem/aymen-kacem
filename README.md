@@ -19,14 +19,10 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-kacem&show_icons=true&locale=en&layout=compact" alt="aymen-kacem" /></p>
-
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
@@ -44,16 +40,20 @@
 ---
 
 <h3 align="center">GitHub Stats:</h3>
+
+<h4 align="center">Most Used Languages</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-kacem&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen-kacem&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
 </p>
 
+<h4 align="center">GitHub Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymen-kacem&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymen-kacem&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
+<h4 align="center">GitHub Streak</h4>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-kacem" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-kacem&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
