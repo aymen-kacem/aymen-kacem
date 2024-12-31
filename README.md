@@ -35,6 +35,12 @@
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40" />
   </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -60,10 +66,10 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  🎓 I’m a Software Engineering student passionate about <strong>big data architectures</strong>, <strong>machine learning</strong>, and <strong>cloud computing</strong>.
-🌱 Currently exploring <strong>Apache Kafka</strong>, <strong>Spark</strong>, and <strong>real-time data processing</strong>.
-💻 Skilled in Python, Java, Git, and containerized deployments with Docker, with experience in <strong>front-end development for mobile and web using Java and Angular</strong>.
-🚀 Open to collaborating on innovative projects and contributing to open source.
+  🎓 I’m a Software Engineering student passionate about <strong>big data architectures</strong>, <strong>machine learning</strong>, and <strong>cloud computing</strong>.  
+  🌱 Currently exploring <strong>Apache Kafka</strong>, <strong>Spark</strong>, and <strong>real-time data processing</strong>.  
+  💻 Skilled in Python, Java, Git, and containerized deployments with Docker, with experience in <strong>front-end development for mobile and web using Java and Angular</strong>.  
+  🚀 Open to collaborating on innovative projects and contributing to open source.
 </p>
 
 ---
