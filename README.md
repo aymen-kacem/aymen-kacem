@@ -52,10 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen-kacem&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
 </p>
 
-<h4 align="center">GitHub Stats</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymen-kacem&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
 
 <h4 align="center">GitHub Streak</h4>
 <p align="center">
