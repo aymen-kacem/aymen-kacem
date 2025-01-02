@@ -63,8 +63,8 @@
 <h3 align="left">About Me:</h3>
 <p align="left">
   🎓 I’m a Software Engineering student passionate about <strong>big data architectures</strong>, <strong>machine learning</strong>, and <strong>cloud computing</strong>.  
-  🌱 Currently exploring <strong>Apache Kafka</strong>, <strong>Spark</strong>, and <strong>real-time data processing</strong>.  
-  💻 Skilled in Python, Java, Git, and containerized deployments with Docker, with experience in <strong>front-end development for mobile and web using Java and Angular</strong>.  
+  🌱 Currently exploring <strong>Apache Kafka</strong>, <strong>Apache Spark</strong>,<strong>Apache Hadoop</strong>,<strong>Apache kudu</strong> and <strong>Apache Impala</strong>.  
+  💻 Skilled in Python, Java, and containerized deployments with Docker, with experience in <strong>front-end development for mobile and web using Java and Angular</strong>.  
   🚀 Open to collaborating on innovative projects and contributing to open source.
 </p>
 
