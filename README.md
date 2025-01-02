@@ -49,6 +49,9 @@
   <a href="https://www.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" />
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" />
+  </a>
 </p>
 
 ---
