@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Aymen</h1>
-<h2 align="center">💻 Software Engineering Student 🚀</h2>
+<h2 align="center">💻 Software Engineering Enthusiast 🚀</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aymen-kacem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -40,14 +40,14 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+  </a>
+  <a href="https://www.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" />
   </a>
 </p>
 
