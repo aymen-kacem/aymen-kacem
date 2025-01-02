@@ -32,7 +32,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
