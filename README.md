@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Aymen</h1>
-<h2 align="center">💻 Software Engineering Enthusiast 🚀</h2>
+<h2 align="center">💻 Software Engineering Student 🚀</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aymen-kacem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
